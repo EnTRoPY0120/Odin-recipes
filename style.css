@@ -1,0 +1,30 @@
+.intro{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    font-size: 50px;
+    text-align:center;
+}
+div{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+div.image{
+    width: 55%;
+}
+
+.description{
+    font-weight: 1000;
+    font-size: 25px;
+}
+
+.list{
+    text-align: center;
+
+}
+
+body{
+    background-color: burlywood  ;
+}
